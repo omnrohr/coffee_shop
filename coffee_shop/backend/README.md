@@ -205,4 +205,4 @@ Obada Al Ahdab authored the API and auth (`auth.py`), test suite (`coffee shop`)
 This project was created by [Udacity](https://www.udacity.com/) as a part of the [Full Stack Web Developer Nanodegree].
 
 ## Special Thanks:
- # TO the [Udacity] team.
+ ### TO the [Udacity] team.
